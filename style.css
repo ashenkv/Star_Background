@@ -1,0 +1,24 @@
+.bg{
+    background: linear-gradient(to bottom, rgb(2, 39, 82), rgb(0, 0, 30));
+    overflow: hidden;
+    margin: 0;
+    height: 100vh;
+    position: relative;
+}
+
+.shape-a{
+    width: 1px;
+    height: 1px;
+    background-color: #8AB2A6;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.shape-b{
+    width: 3px;
+    height: 3px;
+    background-color: #8AB2A6;
+    border-radius: 50%;
+    position: absolute;
+}
+
